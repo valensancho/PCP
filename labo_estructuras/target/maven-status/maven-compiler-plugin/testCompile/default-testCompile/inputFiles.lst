@@ -1,0 +1,6 @@
+/home/valentina/Descargas/laboEstructurasLockFree/src/test/java/org/pcp/exactas/set/ImplementationAssumptions.java
+/home/valentina/Descargas/laboEstructurasLockFree/src/test/java/org/pcp/exactas/set/ListSetContractTest.java
+/home/valentina/Descargas/laboEstructurasLockFree/src/test/java/org/pcp/exactas/set/ConcurrentListSetTest.java
+/home/valentina/Descargas/laboEstructurasLockFree/src/test/java/org/pcp/exactas/set/LinearizabilityCheckerTest.java
+/home/valentina/Descargas/laboEstructurasLockFree/src/test/java/org/pcp/exactas/set/LinearizabilityChecker.java
+/home/valentina/Descargas/laboEstructurasLockFree/src/test/java/org/pcp/exactas/set/StressListSetTest.java
